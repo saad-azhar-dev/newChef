@@ -1,0 +1,6 @@
+module Pods_Tahi {
+  umbrella header "Pods-Tahi-umbrella.h"
+
+  export *
+  module * { export * }
+}

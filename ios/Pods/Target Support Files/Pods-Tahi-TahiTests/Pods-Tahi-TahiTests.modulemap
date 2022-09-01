@@ -1,0 +1,6 @@
+module Pods_Tahi_TahiTests {
+  umbrella header "Pods-Tahi-TahiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
